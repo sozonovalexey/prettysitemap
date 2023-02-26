@@ -1,0 +1,8 @@
+{
+    "name": "xeor/prettysitemap-plugin",
+    "type": "october-plugin",
+    "description": "Prettify a sitemap.xml file for your website.",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
